@@ -1,0 +1,22 @@
+# Dependencies
+node_modules/
+package-lock.json
+yarn.lock
+
+# FloSho test outputs
+testing/flosho-docs/
+*.png
+*.webm
+*.mp4
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+
+# Logs
+*.log
+npm-debug.log*
